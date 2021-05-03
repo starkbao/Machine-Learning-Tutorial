@@ -6,7 +6,7 @@ The one we will implement in this tutorial is the easiest one called *DCGAN*. Th
 ## Task Description
 In the tutorial, we will leverage the DCGAN model to produce several anime faces by Generator. The goal is to generate the anime faces from random noise and make them as real as possible after the *Generator*.
 ## Dataset
-The dataset for training the DCGAN model was generated from [Crypko.ai](https://crypko.ai/#). However, they do not provide the function of anime image generation now. Hence, the dataset was formerly collected. (You can download it from the Google Drive link in the tutorial.)
+The dataset for training the DCGAN model was generated from [Crypko.ai](https://crypko.ai/#). However, they do not provide the function of anime image generation anymore. Hence, the dataset was formerly collected. (You can download it from the Google Drive link in the tutorial.)
 ## Result
 The model achieves 0.0962 and 3.9073 for Discriminator and Generator loss, respectively.\
 We also generate an image from random noise. The result is as follows.
