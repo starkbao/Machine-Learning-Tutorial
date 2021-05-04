@@ -1,7 +1,7 @@
 *This task is taken originally from the Machine Learning Course (Spring 2020) lectured by Prof. Hung-yi Lee at National Taiwan University.*\
 *For more information about the lecture on Linear Regression, please watch it on [YouTube](https://www.youtube.com/watch?v=fegAeph9UaA&ab_channel=Hung-yiLee).*
 # Linear Regression
-In statistics, linear regression is a linear approach to modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables). The case of one explanatory variable is called simple linear regression; for more than one, the process is called multiple linear regression.\
+In statistics, linear regression is a linear approach to modeling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables). The case of one explanatory variable is called simple linear regression; for more than one, the process is called multiple linear regression.\
 Linear regression plays an important role in the subfield of artificial intelligence known as machine learning. The linear regression algorithm is one of the fundamental supervised machine-learning algorithms due to its relative simplicity and well-known properties.
 ([from Wikipedia](https://en.wikipedia.org/wiki/Linear_regression#Machine_learning))
 
@@ -17,5 +17,13 @@ The data is the observation records of Fengyuan Station, which are divided into 
 The dataset contains 18 features: *AMB_TEMP, CH4, CO, NHMC, NO, NO2, NOx, O3, PM10, PM2.5, RAINFALL, RH, SO2, THC, WD_HR, WIND_DIREC, WIND_SPEED, WS_HR*.\
 
 A snapshot of the data is as follows.
+- Training Data
+  - <p align="center"><img width="70%" src="https://i.imgur.com/xGy5hLR.jpg" /></p>
+  - Column A, B, and C are date, station name, and observation items (features), respectively.
+  - Start from column D, is the hourly-record data for each feature.
 
-## Result
+- Testing Data
+  - <p align="center"><img width="70%" src="https://i.imgur.com/UOSsJ6y.jpg" /></p>
+  - Each row represents the measure of the feature for the consecutive 9 hours.
+  - Each hour, there will be 18 features to be measured. Therefore, column A represents the group id of the same hour measurements.
+  - The red box in the figure is the prediction of PM2.5 at the 10th hour that we need to make.
