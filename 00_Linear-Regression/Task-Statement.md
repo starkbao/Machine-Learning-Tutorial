@@ -15,6 +15,7 @@ The data is the observation records of Fengyuan Station, which are divided into 
 - `train.csv`: Complete data from the first 20 days of each month.
 - `test.csv`: Sample from the remaining data for 10 consecutive hours as one piece. All observation data of the first nine hours are regarded as features, and PM2.5 at the tenth hour is regarded as the target. A total of 240 unique test data are retrieved. Please predict the PM2.5 of these 240 test data based on features.\
 The dataset contains 18 features: *AMB_TEMP, CH4, CO, NHMC, NO, NO2, NOx, O3, PM10, PM2.5, RAINFALL, RH, SO2, THC, WD_HR, WIND_DIREC, WIND_SPEED, WS_HR*.\
+
 A snapshot of the data is as follows.
 
 ## Result
