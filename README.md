@@ -5,5 +5,5 @@ In this repository, you will find several machine learning tutorials. This repos
 
 # Table of Contents
 - [00: Linear Regression (code from scratch without any open source library)](https://github.com/starkbao/Machine-Learning-Tutorial/tree/edit/00_Linear-Regression)
-- [01: Binary Classification](https://github.com/starkbao/Machine-Learning-Tutorial/tree/edit/01_Binary-Classification)
+- [01: Binary Classification (Generative v.s. Discriminative Model)](https://github.com/starkbao/Machine-Learning-Tutorial/tree/edit/01_Binary-Classification)
 - [02: Convolutional Neural Network (CNN)]()
