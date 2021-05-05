@@ -5,11 +5,11 @@ In statistics, linear regression is a linear approach to modeling the relationsh
 Linear regression plays an important role in the subfield of artificial intelligence known as machine learning. The linear regression algorithm is one of the fundamental supervised machine-learning algorithms due to its relative simplicity and well-known properties.
 ([from Wikipedia](https://en.wikipedia.org/wiki/Linear_regression#Machine_learning))
 
-## Task Description
+# Task Description
 In the tutorial, we will build the linear regression **from scratch** (Yes, we are going to code the model on our own, not from any open source library!) to predict the amount of PM2.5.\
 **In a nutshell, we will leverage 18 features (including PM2.5) in the first 9 hours to predict PM2.5 in the 10th hour.**
 
-## Dataset
+# Dataset
 The dataset for training the linear regression model was collected from [Taiwan Air Quality Monitoring Network](https://airtw.epa.gov.tw/ENG/default.aspx).\
 The data is the observation records of Fengyuan Station, which are divided into a train set and a test set. The train set is all the data in the first 20 days of each month at Fengyuan Station. The test set is sampled from the remaining days at Fengyuan Station. You can find them in separate `.csv` files.
 - `train.csv`: Complete data from the first 20 days of each month.
