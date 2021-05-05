@@ -9,11 +9,11 @@ In statistical classification, two main approaches are called the generative app
 ([from Wikipedia](https://en.wikipedia.org/wiki/Generative_model))
 
 
-## Task Description
+# Task Description
 In the tutorial, we will build the two classification models **from scratch** (Yes, we are going to code the model on our own, not from any open source library!) to predict whether the income of an individual exceeds $50,000 or not?\
 The two classification models we'll build are the **Probabilistic Generative Model** and **Logistic Regression Model**.
 
-## Dataset
+# Dataset
 The dataset is originally from [Census-Income (KDD) Dataset](https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)).
 For convenience, we preprocessed the data to be `train.csv` and `test_no_label.csv`. These two files are text-based raw data. Besides, unnecessary attributes are removed and it is positive/negative ratio balanced.
 There are several columns in the dataset, which can be categorized as `X_train`, `Y_train`, and `X_test`. Explanation below:
@@ -21,3 +21,6 @@ There are several columns in the dataset, which can be categorized as `X_train`,
 - Continuous features in `train.csv` -> remain the same in `X_train` (age, capital losses...).
 - `X_train` and `X_test` -> each row contains one 510-dim feature represents a sample.
 - `Y_train` -> `label = 0` means  "<= 50K"  and `label = 1` means ">50K".
+
+# Reference
+- [Machine Learning Course (Spring 2020) by Prof. Hung-yi Lee at National Taiwan University](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
