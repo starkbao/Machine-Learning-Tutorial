@@ -14,7 +14,7 @@ In the tutorial, we will build the two classification models **from scratch** (Y
 The two classification models we'll build are the **Probabilistic Generative Model** and **Logistic Regression Model**.
 
 # Dataset
-The dataset is originally from [Census-Income (KDD) Dataset](https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)).
+The dataset is originally from [Census-Income (KDD) Dataset](https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)). You can download the dataset in this [Google Drive link](https://drive.google.com/drive/folders/1Z97_uyhmsTzgewhUBos19wVw5KjIE-b1?usp=sharing).\
 For convenience, we preprocessed the data to be `train.csv` and `test_no_label.csv`. These two files are text-based raw data. Besides, unnecessary attributes are removed and it is positive/negative ratio balanced.
 There are several columns in the dataset, which can be categorized as `X_train`, `Y_train`, and `X_test`. Explanation below:
 - Discrete features in `train.csv` -> one-hot encoding in `X_train` (education, martial state...).
