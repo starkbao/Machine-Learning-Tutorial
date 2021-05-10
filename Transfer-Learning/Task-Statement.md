@@ -30,3 +30,4 @@ The labels contain 10 classes, which are shown as below.
 # Reference
 - [Machine Learning Course (Spring 2020) by Prof. Hung-yi Lee at National Taiwan University](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
 - [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf)
+- [Transfer learning](https://en.wikipedia.org/wiki/Transfer_learning)
