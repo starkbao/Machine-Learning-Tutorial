@@ -7,5 +7,6 @@ In this repository, you will find several machine learning tutorials. This repos
 - [00: Linear Regression (code from scratch without any open source library)](https://github.com/starkbao/Machine-Learning-Tutorial/tree/edit/00_Linear-Regression)
 - [01: Binary Classification (Generative v.s. Discriminative Model)](https://github.com/starkbao/Machine-Learning-Tutorial/tree/edit/01_Binary-Classification)
 - [02: Convolutional Neural Network (CNN)](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/02_CNN)
-- [03: Recurrent Neural Network (RNN)](https://github.com/starkbao/Machine-Learning-Tutorial/tree/Transfer-Learning/03_RNN)
+- [03: Recurrent Neural Network (RNN)](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/03_RNN)
 - [04: Explainable AI](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/04_Explainable-AI)
+- [05: Adversarial Attack](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/05_Adversarial-Attack)
