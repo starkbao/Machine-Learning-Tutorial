@@ -10,4 +10,4 @@ The dataset for training the DCGAN model was generated from [Crypko.ai](https://
 ## Result
 The model achieves 0.0962 and 3.9073 for Discriminator and Generator loss, respectively.\
 We also generate an image from random noise. The result is as follows.
-<p align="center"><img width="90%" src="https://github.com/starkbao/Machine-Learning-Tutorial/blob/main/DCGAN/DCGAN_Result.png" /></p>
+<p align="center"><img width="90%" src="https://i.imgur.com/ChFyHPs.png" /></p>
