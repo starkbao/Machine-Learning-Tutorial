@@ -10,4 +10,12 @@ In this repository, you will find several machine learning tutorials. This repos
 - [03: Recurrent Neural Network (RNN)](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/03_RNN)
 - [04: Explainable AI](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/04_Explainable-AI)
 - [05: Adversarial Attack](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/05_Adversarial-Attack)
-- [06: Sequence-to-sequence Model](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/07_Seq2Seq)
+- [06: Network Compression (under progress)]
+- [07: Sequence-to-sequence Model](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/07_Seq2Seq)
+- [08: Clustering](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/08_Clustering)
+- [09: Anomaly Detection (under progress)]
+- [10: DCGAN](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/10_DCGAN)
+- [11: Transfer Learning](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/11_Transfer-Learning)
+- [12: Meta Learning (under progress)]
+- [13: Life-long Learning (under progress)]
+- [14: Reinforcement Learning (under progress)]
