@@ -16,6 +16,6 @@ In this repository, you will find several machine learning tutorials. This repos
 - [09: Anomaly Detection (under progress)]()
 - [10: DCGAN](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/10_DCGAN)
 - [11: Transfer Learning](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/11_Transfer-Learning)
-- [12: Meta Learning (under progress)]()
+- [12: Meta Learning](https://github.com/starkbao/Machine-Learning-Tutorial/tree/main/12_Meta-Learning)
 - [13: Life-long Learning (under progress)]()
 - [14: Reinforcement Learning (under progress)]()
